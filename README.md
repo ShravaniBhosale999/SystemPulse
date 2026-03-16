@@ -1,6 +1,6 @@
 # SystemPulse – Automated System Monitoring & Log Generator
 
-SystemPulse is a Python-based automated system monitoring tool that periodically captures system resource usage and running process information and stores it in structured log files for analysis.
+Developed a system monitoring tool that tracks CPU, memory, and disk usage and automatically generates logs for system performance analysis. This project demonstrates concepts used in cloud infrastructure monitoring and system administration.
 
 ## Features
 - Monitors CPU usage
